@@ -1,10 +1,10 @@
-# 🔋 Tesla Supercharger Network Analysis
+# Tesla Supercharger Network Analysis
 
 A comprehensive data analytics project exploring Tesla's global Supercharger infrastructure using Python, pandas, seaborn, and geospatial techniques. This project investigates deployment patterns, charging power trends, elevation impacts, and regional disparities to generate actionable business insights.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project is to uncover patterns in Tesla’s Supercharger network by analyzing its station-level attributes — including location, power output, stall count, elevation, and open dates. The goal is to generate insights that can support infrastructure planning, expansion strategies, and customer experience optimization.
 
@@ -35,7 +35,7 @@ The dataset includes detailed information for each Tesla Supercharger location, 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 tesla-supercharger-analysis/
 │
@@ -54,7 +54,7 @@ tesla-supercharger-analysis/
 
 ---
 
-## 🧠 Summary of Key Findings and Business Insights
+## Summary of Key Findings and Business Insights
 
 ### 📈 1. Supercharger Power Output Has Increased Over Time
 
@@ -66,7 +66,7 @@ tesla-supercharger-analysis/
 
 ---
 
-### 🌍 2. U.S., China, and Germany Lead in Deployment
+### 2. U.S., China, and Germany Lead in Deployment
 
 - These countries dominate in total station count.  
 - Reflects alignment with mature EV markets.  
@@ -76,7 +76,7 @@ tesla-supercharger-analysis/
 
 ---
 
-### 🗻 3. Only ~5.7% of Stations Exist at High Elevations (>1000m)
+### 3. Only ~5.7% of Stations Exist at High Elevations (>1000m)
 
 - Most stations are in low-elevation areas.  
 
@@ -94,7 +94,7 @@ tesla-supercharger-analysis/
 
 ---
 
-### 📊 5. Supercharger Growth Accelerated Post-2015
+### 5. Supercharger Growth Accelerated Post-2015
 
 - Major expansion in station deployment occurred between 2015–2022.  
 
@@ -114,7 +114,7 @@ tesla-supercharger-analysis/
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python, pandas, seaborn, matplotlib  
 - Jupyter / Google Colab  
