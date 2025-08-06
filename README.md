@@ -85,7 +85,7 @@ tesla-supercharger-analysis/
 
 ---
 
-### ⚡ 4. High-Power Stations Tend to Have More Stalls
+### 4. High-Power Stations Tend to Have More Stalls
 
 - 250 kW stations often have 40+ stalls, unlike lower-kW stations which typically have <20.  
 
